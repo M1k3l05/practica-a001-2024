@@ -1,4 +1,4 @@
-package ule.edi.model;
+package ule.edi.travel;
 
 import java.util.ArrayList;
 import java.util.Date;
