@@ -7,7 +7,7 @@ import java.util.Date;
 
 import org.junit.*;
 
-import.ule.edi.model.*;
+import ule.edi.model.*;
 
 
 
