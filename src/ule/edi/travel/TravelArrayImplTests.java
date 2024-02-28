@@ -1,4 +1,4 @@
-package ule.edi.travel
+package ule.edi.travel;
 
 import java.text.DateFormat;
 import java.text.ParseException;
@@ -7,7 +7,7 @@ import java.util.Date;
 
 import org.junit.*;
 
-import.ule.edi.model.*
+import.ule.edi.model.*;
 
 
 

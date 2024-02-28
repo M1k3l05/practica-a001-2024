@@ -1,9 +1,9 @@
-package ule.edi.model
+package ule.edi.model;
 
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-import ule.edi.model.*
+import ule.edi.model.*;
 
 
 public class TravelArrayImpl implements Travel {
